@@ -1,0 +1,11 @@
+{
+  "name": "HerokuManagerBot",
+  "description": "A Heroku Manager!",
+  "keywords": [
+    "telegram"
+  ],
+  "repository": "https://github.com/mvplID/HerokuManagerBot",
+  "success_url": "https://github.com/mvplID/HerokuManagerBot",
+  "website": "https://github.com/mvplID/HerokuManagerBot",
+  "stack": "container"
+}
